@@ -2,3 +2,14 @@ p{
     color:hotpink;
     max-width:400px;
 }
+
+img{
+    width:100%;
+    opacity:0.1;
+    transition: opacity 10s;
+}
+
+img:hover{
+    opacity:1;
+}
+
